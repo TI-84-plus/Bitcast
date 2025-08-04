@@ -1,25 +1,28 @@
-## 🎵 BitCast
+# 🎵 BitCast
 
-**BitCast** is a sleek, lightweight command-line music player inspired by YouTube Music — with support for streaming tracks directly from YouTube, managing playlists, and playing locally downloaded music and albums.
+**BitCast** is a sleek, terminal-native music player — designed for power users who want **full keyboard control**. With a Vim-inspired interface, it's perfect for anyone who prefers navigating with `hjkl` over a mouse.
 
 ---
 
 ## 🔧 Features
 
-- 🎧 **Stream from YouTube**  
-  Search and play audio from YouTube videos with minimal setup.
+- ⌨️ **Vim-Style Navigation Everywhere**  
+  Browse files, playlists, and the library using Vim motions — `j/k` to move, `/` to search, `gg/G` to jump. No arrow keys. No compromises.
 
-- 📁 **Play Local Files**  
-  Supports MP3, FLAC, and other common formats directly from your music folders.
+- 🎧 **Play Local Files**  
+  BitCast supports MP3, FLAC, and other common audio formats — just point it to a folder and go.
 
-- 📂 **Album & Playlist Support**  
-  Organize music into albums or custom playlists — both local and online.
+- 📂 **Albums & Playlists**  
+  Group your music into folders or custom playlists — all navigable with smooth Vim motions.
 
 - ⚙️ **Config-Based Customization**  
-  Fully modular and easy to configure — no plugins or bloat.
+  Set your preferences in plain-text config files. Control what shows up, how playback works, and even keybindings.
 
-- 🧼 **Minimal Interface**  
-  Clean command-line interface, great for terminal lovers and scripting.
+- 🧼 **Minimal, Distraction-Free Interface**  
+  Clean terminal UI with just enough to get you grooving — no mouse required.
+
+- 🚀 **Lightweight & Fast**  
+  Snappy startup and zero bloat. Ideal for low-resource environments or remote terminals.
 
 ---
 
@@ -29,5 +32,3 @@
 git clone https://github.com/TI-84-plus/Bitcast.git
 cd Bitcast
 # build/run instructions coming soon
- Bitcast
-
