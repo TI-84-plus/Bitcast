@@ -1,0 +1,15 @@
+/home/fiveeght/BitCast/Build/bin/BitCast.CLI/net9.0/BitCast.CLI
+/home/fiveeght/BitCast/Build/bin/BitCast.CLI/net9.0/BitCast.CLI.deps.json
+/home/fiveeght/BitCast/Build/bin/BitCast.CLI/net9.0/BitCast.CLI.runtimeconfig.json
+/home/fiveeght/BitCast/Build/bin/BitCast.CLI/net9.0/BitCast.CLI.dll
+/home/fiveeght/BitCast/Build/bin/BitCast.CLI/net9.0/BitCast.CLI.pdb
+/home/fiveeght/BitCast/src/BitCast.CLI/obj/Debug/net9.0/BitCast.CLI.GeneratedMSBuildEditorConfig.editorconfig
+/home/fiveeght/BitCast/src/BitCast.CLI/obj/Debug/net9.0/BitCast.CLI.AssemblyInfoInputs.cache
+/home/fiveeght/BitCast/src/BitCast.CLI/obj/Debug/net9.0/BitCast.CLI.AssemblyInfo.cs
+/home/fiveeght/BitCast/src/BitCast.CLI/obj/Debug/net9.0/BitCast.CLI.csproj.CoreCompileInputs.cache
+/home/fiveeght/BitCast/src/BitCast.CLI/obj/Debug/net9.0/BitCast.CLI.sourcelink.json
+/home/fiveeght/BitCast/src/BitCast.CLI/obj/Debug/net9.0/BitCast.CLI.dll
+/home/fiveeght/BitCast/src/BitCast.CLI/obj/Debug/net9.0/refint/BitCast.CLI.dll
+/home/fiveeght/BitCast/src/BitCast.CLI/obj/Debug/net9.0/BitCast.CLI.pdb
+/home/fiveeght/BitCast/src/BitCast.CLI/obj/Debug/net9.0/BitCast.CLI.genruntimeconfig.cache
+/home/fiveeght/BitCast/src/BitCast.CLI/obj/Debug/net9.0/ref/BitCast.CLI.dll

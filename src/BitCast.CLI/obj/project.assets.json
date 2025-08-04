@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/fiveeght/BitCast/src/src.csproj",
-      "projectName": "src",
-      "projectPath": "/home/fiveeght/BitCast/src/src.csproj",
+      "projectUniqueName": "/home/fiveeght/BitCast/src/BitCast.CLI/BitCast.CLI.csproj",
+      "projectName": "BitCast.CLI",
+      "projectPath": "/home/fiveeght/BitCast/src/BitCast.CLI/BitCast.CLI.csproj",
       "packagesPath": "/home/fiveeght/.nuget/packages/",
-      "outputPath": "/home/fiveeght/BitCast/src/obj/",
+      "outputPath": "/home/fiveeght/BitCast/src/BitCast.CLI/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/fiveeght/.nuget/NuGet/NuGet.Config"
